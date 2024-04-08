@@ -39,6 +39,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/angelf-dev/angelf-dev/output/snake.svg" alt="Snake animation" />
-
 ###
