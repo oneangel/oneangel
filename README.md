@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 Student in Universidad Técnologica de Durango<br>🌱 Currently learning Angular<br>⚡ Proactive</p>
+<p align="left">🔭 Student in Universidad Técnologica de Durango<br>🌱 Currently learning Angular<br>⚡ Proactive </p>
 
 ###
 
