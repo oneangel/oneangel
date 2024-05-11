@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Angel Fuentes, a second-year undergrad at the Universidad Tecnologica de Durango, studying Software Development Engineering with a deep interest in web development and software testing. Front-end enthusiast and passionate about creating engaging and intuitive user experiences. Knowledgeable in modern frameworks. Committed to software quality and always willing to learn new technologies and best practices in the web development field.</p>
+<p align="left">I'm Angel Fuentes, a second-year undergrad at the Universidad Tecnologica de Durango, studying Software Development Engineering with a deep interest in web development. Front-end enthusiast and passionate about creating engaging and intuitive user experiences. Knowledgeable in modern frameworks. Committed to software quality and always willing to learn new technologies and best practices in the web development field.</p>
 
 ###
 
